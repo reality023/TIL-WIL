@@ -1,6 +1,8 @@
 # Today I Learned
+## TIL README
+항해99 TIL - [Go to link][week-1]
 
-## Week 1
-[Go to link][week-1]
+[week-1]: hanghae99/README.md "git-week-1"
 
-[week-1]: learn-git/week-1.md "Go google"
+# This Week I Learned
+## WIL README
