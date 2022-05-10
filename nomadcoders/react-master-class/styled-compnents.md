@@ -92,3 +92,58 @@ function App() {
 export default App;
 ```
 <img width="208" alt="스크린샷 2022-05-10 오전 8 43 43" src="https://user-images.githubusercontent.com/87969561/167515793-5dc09bf0-ad65-4cc6-90c9-15dc21589875.png">
+
+
+## 태그명 바꿔 사용하기
+
+아래는 styled-components에서 div 태그로 만들어진 Father 컴포넌트를 as 속성을 사용해 header 태그로 변경해 사용하는 코드이다.
+
+```JAVASCRIPT
+import styled from "styled-components";
+
+const Father = styled.div`
+  display: flex;
+`;
+
+function App() {
+  return (
+    <Father as="header">
+    </Father>
+  );
+}
+
+export default App;
+```
+
+<img width="354" alt="스크린샷 2022-05-10 오후 1 18 59" src="https://user-images.githubusercontent.com/87969561/167541779-98ee83f0-172d-4445-aee8-6c5cba343fae.png">
+
+
+## 태그 기본 속성 적용하기
+아래 코드는 컴포넌트 사용시에 required를 넣지 않고 styled-components를 통해 기본 속성으로 required를 적용한 코드이다.
+```JAVASCRIPT
+import styled from "styled-components";
+
+const Father = styled.div`
+  display: flex;
+`;
+
+const Input = styled.input.attrs({required: true, minLength: 10})`
+  background-color: tomato;
+`;
+
+function App() {
+  return (
+    <Father as="header">
+      <Input type="text" />
+      <Input type="text" />
+      <Input type="text" />
+      <Input type="text" />
+      <Input type="text" />
+    </Father>
+  );
+}
+
+export default App;
+```
+
+<img width="487" alt="스크린샷 2022-05-10 오후 1 24 34" src="https://user-images.githubusercontent.com/87969561/167542364-ab236184-093f-4847-8aed-2984e245d3f7.png">
