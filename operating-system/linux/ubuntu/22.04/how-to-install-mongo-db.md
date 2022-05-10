@@ -1,6 +1,6 @@
 # 우분투 22.04 몽고 DB 설치
-참고 링크 1 : https://itnixpro.com/install-mongodb-on-ubuntu-22-04/
-참고 링크 2 : https://askubuntu.com/questions/1403619/mongodb-install-fails-on-ubuntu-22-04-depends-on-libssl1-1-but-it-is-not-insta
+- 참고 링크 1 : https://itnixpro.com/install-mongodb-on-ubuntu-22-04/
+- 참고 링크 2 : https://askubuntu.com/questions/1403619/mongodb-install-fails-on-ubuntu-22-04-depends-on-libssl1-1-but-it-is-not-insta
 
 
 코드를 순서대로 입력합니다.
