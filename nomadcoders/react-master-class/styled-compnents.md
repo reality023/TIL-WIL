@@ -279,6 +279,7 @@ export default App;
 ```
 
 ## 테마 기능
+- 아래는 ThemeProvider 컴포넌트에서 theme 속성을 변경하면 배경색과 텍스트 색이 변하는 코드이다.
 
 - /src/index.js
 ```javascript
