@@ -4,13 +4,12 @@
 
 function solution(numbers) {
     let list = [0,1,2,3,4,5,6,7,8,9];
-    const reducer = (a, b) => a + b;
     
     numbers.forEach((v) => {
         list.splice(list.indexOf(v), 1);
     });
 
-    return list.reduce(reducer);
+    return list.reduce((a, b) => a + b);
 }
 
 console.log(solution([1,2,3,4,6,7,8,0]));
