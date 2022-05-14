@@ -14,6 +14,6 @@ MDN Link : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statem
 
 ## for ... of
 - **형태 : for (변수타입 변수 of 반복가능개체)**
-- 객체의 요소를 하나씩 꺼내 반복
+- 반복 가능한 개체의(객체, 배열, 문자열 등) 요소를 하나씩 꺼내 반복
 
 MDN Link : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/for...of
