@@ -2,10 +2,10 @@
 
 ## Learn
 
-- [문법(Syntax)](syntax.md)
-- [배열(Array)](array.md)
-- [숫자(Number)](number.md)
-- [문자(String)](string.md)
+- [문법(Syntax)](learn/syntax.md)
+- [배열(Array)](learn/array.md)
+- [숫자(Number)](learn/number.md)
+- [문자(String)](learn/string.md)
 
 ## Problem
 
