@@ -1,5 +1,5 @@
 # Q11. x만큼 간격이 있는 n개의 숫자
-// https://programmers.co.kr/learn/courses/30/lessons/12954
+- https://programmers.co.kr/learn/courses/30/lessons/12954
 
 > 내가 푼 코드
 ```js
@@ -12,7 +12,7 @@ function solution(x, n) {
 }
 ```
 
-> 남이 푼 코드
+> 다른 사람 코드
 ```js
 function solution(x, n) {
     return Array(n).fill(x).map((v, i) => (i + 1) * v)

@@ -28,7 +28,7 @@ process.stdin.setEncoding('utf8');
 process.stdin.on('data', data => {
     const n = data.split(" ");
     const a = Number(n[0]), b = Number(n[1]);
-    const row = '*'.repeat(a) // 문자열을 5회 입력해주는 함수
+    const row = '*'.repeat(a) // 문자열을 n회 입력해주는 함수
     for(let i =0; i < b; i++){ // 줄 수만큼 반복
         console.log(row); // 출력
     }

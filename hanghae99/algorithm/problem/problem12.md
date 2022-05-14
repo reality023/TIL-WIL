@@ -1,5 +1,5 @@
 # Q12. 부족한 금액 계산하기
-// https://programmers.co.kr/learn/courses/30/lessons/82612
+- https://programmers.co.kr/learn/courses/30/lessons/82612
 
 > 내 코드
 ```js

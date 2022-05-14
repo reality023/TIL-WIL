@@ -1,6 +1,7 @@
-// 자릿수 더하기
-// https://programmers.co.kr/learn/courses/30/lessons/12931
+# Q22. 자릿수 더하기
+- https://programmers.co.kr/learn/courses/30/lessons/12931
 
+> 내 코드
 ```js
 function solution(n)
 {
@@ -8,6 +9,7 @@ function solution(n)
 }
 ```
 
+> 다른 사람 코드
 ```js
 function solution(n){
     // 쉬운방법

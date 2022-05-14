@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 14번 / 나누어 떨어지는 숫자 배열
+# Q14. 나누어 떨어지는 숫자 배열
 - https://programmers.co.kr/learn/courses/30/lessons/12910
 
 > 내가 푼 코드

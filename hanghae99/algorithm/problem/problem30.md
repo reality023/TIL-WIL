@@ -1,7 +1,7 @@
-// 최소직사각형
-// https://programmers.co.kr/learn/courses/30/lessons/86491
+# Q30. 최소직사각형
+- https://programmers.co.kr/learn/courses/30/lessons/86491
 
-- 1차
+> 내 코드
 ```js
 function solution(sizes) {
     const [a, b] = sizes.map((v) => v[0] > v[1] ? [v[0], v[1]] : [v[1], v[0]]).reduce((a, b) => [a[0] > b[0] ? a[0] : b[0], a[1] > b[1] ? a[1] : b[1]])
@@ -9,7 +9,7 @@ function solution(sizes) {
 }
 ```
 
-- 2차
+> 내 코드 2
 ```js
 function solution(sizes) {
     const [x, y] = sizes.reduce((a, b) => {
@@ -24,7 +24,7 @@ function solution(sizes) {
 }
 ```
 
-> 다른 사람
+> 다른 사람 코드
 ```js
 function solution(sizes) {
     const [hor, ver] = sizes.reduce(([h, v], [a, b]) => [Math.max(h, Math.max(a, b)), Math.max(v, Math.min(a, b))], [0, 0])
