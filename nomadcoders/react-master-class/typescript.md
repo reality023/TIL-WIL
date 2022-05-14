@@ -80,3 +80,11 @@ function Circle({bgColor}: CircleProps) {
 
 export default Circle;
 ```
+
+## Optional Props
+
+## State
+
+## Forms
+
+## Themes
