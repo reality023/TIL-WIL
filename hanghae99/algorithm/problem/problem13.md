@@ -13,7 +13,7 @@ function solution(a, b) {
 
 > 다른 사람 코드
 ```js
-function getDayName(a,b){
+function getDayName(a,b) {
   var date = new Date(2016, (a - 1), b);
     return date.toString().slice(0, 3).toUpperCase();
 }
