@@ -19,4 +19,13 @@ MDN Link : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Glo
 MDN Link : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
 ## toUpperCase()
-- **형태 : "문자열".to
+- **형태 : "문자열".toUpperCase()**
+- 문자열의 모든 문자를 대문자로 바꿔줍니다.
+
+MDN Link : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
+
+## toLowerCase()
+- **형태 : "문자열".toLowerCase()**
+- 문자열의 모든 문자를 소문자로 바꿔줍니다.
+
+MDN Link : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
