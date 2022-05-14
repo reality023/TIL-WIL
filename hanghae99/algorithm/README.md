@@ -2,6 +2,10 @@
 
 ## Learn
 
+- [문법(Syntax)](syntax.md)
+- [배열(Array)](array.md)
+- [숫자(Number)](number.md)
+- [문자(String)](string.md)
 
 ## Problem
 
