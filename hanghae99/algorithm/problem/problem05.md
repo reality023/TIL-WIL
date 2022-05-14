@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 5번 / 문자열을 정수로 바꾸기
+# Q5. 문자열을 정수로 바꾸기
 - https://programmers.co.kr/learn/courses/30/lessons/12925
 
 > 내가 푼 코드

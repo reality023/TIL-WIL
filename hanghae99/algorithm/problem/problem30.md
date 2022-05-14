@@ -12,11 +12,11 @@ function solution(sizes) {
 - 2차
 ```js
 function solution(sizes) {
-    let [x, y] = sizes.reduce((a, b) => {
-        a_min = Math.min(...a);
-        b_min = Math.min(...b);
-        a_max = Math.max(...a);
-        b_max = Math.max(...b);
+    const [x, y] = sizes.reduce((a, b) => {
+        const a_min = Math.min(...a);
+        const b_min = Math.min(...b);
+        const a_max = Math.max(...a);
+        const b_max = Math.max(...b);
         return [ a_min > b_min ? a_min : b_min, a_max > b_max ? a_max : b_max]
     });
 

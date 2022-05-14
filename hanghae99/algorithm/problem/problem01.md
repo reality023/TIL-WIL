@@ -1,6 +1,4 @@
-# 항해99 알고리즘
-
-## 문제 1번 / 직사각형 별 찍기
+# Q1. 직사각형 별 찍기
 - https://programmers.co.kr/learn/courses/30/lessons/12969
 
 > 내가 푼 코드

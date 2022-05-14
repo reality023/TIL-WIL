@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 4번 / 두 정수 사이의 합
+# Q4. 두 정수 사이의 합
 - https://programmers.co.kr/learn/courses/30/lessons/12912
 
 > 내가 푼 코드

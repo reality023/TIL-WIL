@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 9번 / 핸드폰 번호 가리기
+# Q9. 핸드폰 번호 가리기
 - https://programmers.co.kr/learn/courses/30/lessons/12948
 
 > 내가 푼 코드

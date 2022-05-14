@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 6번 / 없는 숫자 더하기
+# Q6. 없는 숫자 더하기
 - https://programmers.co.kr/learn/courses/30/lessons/86051
 
 > 내가 푼 코드

@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 3번 / 가운데 글자 가져오기
+# Q3. 가운데 글자 가져오기
 - https://programmers.co.kr/learn/courses/30/lessons/12903
 
 > 내가 푼 코드

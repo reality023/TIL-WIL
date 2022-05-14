@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 10번 / 행렬의 덧셈
+# Q10. 행렬의 덧셈
 - https://programmers.co.kr/learn/courses/30/lessons/12950
 
 > 내가 푼 코드

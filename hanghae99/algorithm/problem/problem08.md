@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 8번 / 평균 구하기
+# Q8. 평균 구하기
 - https://programmers.co.kr/learn/courses/30/lessons/12944
 
 > 내가 푼 코드

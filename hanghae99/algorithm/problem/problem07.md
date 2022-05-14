@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 7번 / 음양 더하기
+# Q7. 음양 더하기
 - https://programmers.co.kr/learn/courses/30/lessons/76501
 
 > 내가 푼 코드

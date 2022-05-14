@@ -1,5 +1,4 @@
-# 항해99 알고리즘
-## 문제 2번 / 짝수와 홀수
+# Q2. 짝수와 홀수
 - https://programmers.co.kr/learn/courses/30/lessons/12937
 
 > 내가 푼 코드
