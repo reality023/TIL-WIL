@@ -1,5 +1,13 @@
-# Q34. 모의고사
+# Q38. 모의고사
 - https://programmers.co.kr/learn/courses/30/lessons/42840
+
+> 내 코드 - 작동 안됨
+```js
+function solution(s) {
+    const change = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
+    return change.reduce((result, x, i) => result.replaceAll(x, i), s);
+}
+```
 
 > 내 코드
 ```js
