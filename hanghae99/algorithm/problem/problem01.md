@@ -13,7 +13,6 @@ process.stdin.on('data', data => {
 
     for (let i = 0; i < b; i++) { // b의 개수 만큼 반복
         for (let j = 0; j < a; j++) {
-            star += "*"; // a의 개수 만큼 반복
         }
 
         console.log(star); // 줄 개행
