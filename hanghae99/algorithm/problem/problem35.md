@@ -1,3 +1,8 @@
+# Q35. 문자열 정렬하기
+- https://programmers.co.kr/learn/courses/30/lessons/12915
+
+> 내 코드
+```js
 function solution(strings, n) {
     const list = {
     }
@@ -13,3 +18,4 @@ function solution(strings, n) {
         return Obj;
     }, []);
 }
+```
