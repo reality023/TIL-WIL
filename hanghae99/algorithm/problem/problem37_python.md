@@ -1,3 +1,6 @@
+
+
+
 def solution(nums):
     check = 0
     list_nums = []
