@@ -4,9 +4,7 @@
 > 내 코드
 ```js
 function solution(s) {
-    return s.split(" ").map((v) => {
-        return v.split("").map((w, i) => i % 2 === 0 ? w.toUpperCase() : w.toLowerCase());
-    })
+    return s.split(" ").map((v) => v.split("").map((w, i) => i % 2 === 0 ? w.toUpperCase() : w.toLowerCase()))
     .reduce((arr, v) => arr.concat(" ", v))
     .reduce((a, b) => a + b);
 }

@@ -10,6 +10,7 @@ array.forEach((v) => {
 });
 ```
 > **실행 화면**
+> 
 > ![스크린샷 2022-05-13 오후 10 14 53](https://user-images.githubusercontent.com/87969561/168291731-798a5987-23a6-4461-aea6-e3efb7a8b83d.png)
 
 참고 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
@@ -25,6 +26,7 @@ console.log(array.map((v) => {
 }));
 ```
 > **실행 화면**
+> 
 > ![스크린샷 2022-05-13 오후 10 26 06](https://user-images.githubusercontent.com/87969561/168293705-3fceaf63-454d-429c-ba21-5c706224635b.png)
 
 참고 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/map
