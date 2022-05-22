@@ -179,28 +179,28 @@ console.log(b); // 전역 변수 b 출력 -> 1
 > ## 참고 자료
 > 책 : <span style="color: #ff7777">모던 자바스크립트 Deep Dive</span>
 > 
-> <span style="color: #ff99ff">동적 언어와 정적 언어</span> : https://sangwoo0727.github.io/javascript/JavaScript-1_1_DynamicStaticLang/
+> [동적 언어와 정적 언어](https://sangwoo0727.github.io/javascript/JavaScript-1_1_DynamicStaticLang/)
 >
-> <span style="color: #ff99ff">동적 타이핑</span> : https://velog.io/@93jm/JS-%EB%8F%99%EC%A0%81%ED%83%80%EC%9D%B4%ED%95%91Dynamic-typing
+> [동적 타이핑](https://velog.io/@93jm/JS-%EB%8F%99%EC%A0%81%ED%83%80%EC%9D%B4%ED%95%91Dynamic-typing)
 > 
-> <span style="color: #ff99ff">타입과 자료구조</span> : https://developer.mozilla.org/ko/docs/Web/JavaScript/Data_structures
+> [타입과 자료구조](https://developer.mozilla.org/ko/docs/Web/JavaScript/Data_structures)
 > 
-> <span style="color: #ff99ff">자바스크립트의 형변환</span> : https://medium.com/gdana/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%ED%98%95%EB%B3%80%ED%99%98%EC%9D%80-%EB%91%90%EA%B0%80%EC%A7%80%EB%8B%A4-b46875be4a88
+> [자바스크립트의 형변환](https://medium.com/gdana/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%ED%98%95%EB%B3%80%ED%99%98%EC%9D%80-%EB%91%90%EA%B0%80%EC%A7%80%EB%8B%A4-b46875be4a88)
 > 
-> <span style="color: #ff99ff">동치 연산자 차이</span> : https://hyunseob.github.io/2015/07/30/diffrence-between-equality-and-identity-in-javascript/
+> [동치 연산자 차이](https://hyunseob.github.io/2015/07/30/diffrence-between-equality-and-identity-in-javascript/)
 > 
-> <span style="color: #ff99ff">null과 undefined</span> : https://helloworldjavascript.net/pages/160-null-undefined.html
+> [null과 undefined](https://helloworldjavascript.net/pages/160-null-undefined.html)
 > 
-> <span style="color: #ff99ff">기본형과 참조형의 종류 및 차이점</span> : https://velog.io/@jayjungzzzz/%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC-%EC%B0%B8%EC%A1%B0%ED%98%95%EC%9D%98-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%B0%A8%EC%9D%B4%EC%A0%90
+> [기본형과 참조형의 종류 및 차이점](https://velog.io/@jayjungzzzz/%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC-%EC%B0%B8%EC%A1%B0%ED%98%95%EC%9D%98-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 > 
-> <span style="color: #ff99ff">스코프와 변수선언</span> : https://hanamon.kr/javascript-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%EB%B3%80%EC%88%98%EC%84%A0%EC%96%B8%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B0%A8%EC%9D%B4%EC%A0%90/
+> [스코프와 변수선언](https://hanamon.kr/javascript-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%EB%B3%80%EC%88%98%EC%84%A0%EC%96%B8%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B0%A8%EC%9D%B4%EC%A0%90/)
 > 
-> <span style="color: #ff99ff">얕은 복사와 깊은 복사</span>: https://velog.io/@th0566/Javascript-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC
+> [얕은 복사와 깊은 복사](https://velog.io/@th0566/Javascript-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC)
 > 
-> <span style="color: #ff99ff">호이스팅</span> : https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html
+> [호이스팅](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
 > 
-> <span style="color: #ff99ff">TDZ</span> : https://ui.toast.com/weekly-pick/ko_20191014
+> [TDZ](https://ui.toast.com/weekly-pick/ko_20191014)
 > 
-> <span style="color: #ff99ff">실행 컨텍스트와 콜 스택</span> : https://velog.io/@wonseok2877/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%94%EC%A7%84-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%BD%9C-%EC%8A%A4%ED%83%9D#callstack
+> [실행 컨텍스트와 콜 스택](https://velog.io/@wonseok2877/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%94%EC%A7%84-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%BD%9C-%EC%8A%A4%ED%83%9D#callstack)
 > 
-> <span style="color: #ff99ff">스코프, 스코프 체인, 클로저</span> : https://developer-alle.tistory.com/369
+> [스코프, 스코프 체인, 클로저](https://developer-alle.tistory.com/369)
