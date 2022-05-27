@@ -1,5 +1,7 @@
 # Styled Components 사용법 정리
 
+**Styled Components는 리액트에서 스타일을 컴포넌트별로, 클래스 명을 걱정하지 않고 작업할 수 있게 해줍니다**
+
 1. [설치](install.md)
 2. [기본 사용법](basic.md)
 3. [Props 전달하여 사용하기](props.md)
