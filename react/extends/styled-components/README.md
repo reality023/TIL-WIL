@@ -12,3 +12,5 @@
 8. [SCSS 사용](use-scss.md)
 9. [컴포넌트 선택자](component-selector.md)
 10. [테마](theme.md)
+11. [글로벌 스타일](global-style.md)
+12. [CSS, SCSS 파일 포함하기](css-in-styled-components.md)
